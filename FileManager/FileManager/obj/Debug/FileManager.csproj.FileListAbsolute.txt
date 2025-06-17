@@ -1,0 +1,6 @@
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManager\FileManager\bin\Debug\FileManager.dll
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManager\FileManager\bin\Debug\FileManager.pdb
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManager\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManager\FileManager\obj\Debug\FileManager.dll
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManager\FileManager\obj\Debug\FileManager.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "N:\\August Devices\\C# class \u0026 practise\\D 13-06-2025\\Task1\\FileManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0653BA1A-2D7E-49D8-82B4-4936FB187DE6}|FileManager\\FileManager.csproj|n:\\august devices\\c# class \u0026 practise\\d 13-06-2025\\task1\\filemanager\\filemanager\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0653BA1A-2D7E-49D8-82B4-4936FB187DE6}|FileManager\\FileManager.csproj|solutionrelative:filemanager\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "N:\\August Devices\\C# class \u0026 practise\\D 13-06-2025\\Task1\\FileManager\\FileManager\\Class1.cs",
+              "RelativeDocumentMoniker": "FileManager\\Class1.cs",
+              "ToolTip": "N:\\August Devices\\C# class \u0026 practise\\D 13-06-2025\\Task1\\FileManager\\FileManager\\Class1.cs",
+              "RelativeToolTip": "FileManager\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:07:01.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManagerConsole\FileManagerConsole\bin\Debug\FileManagerConsole.exe.config
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManagerConsole\FileManagerConsole\bin\Debug\FileManagerConsole.exe
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManagerConsole\FileManagerConsole\bin\Debug\FileManagerConsole.pdb
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManagerConsole\FileManagerConsole\bin\Debug\FileManager.dll
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManagerConsole\FileManagerConsole\bin\Debug\FileManager.pdb
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManagerConsole\FileManagerConsole\obj\Debug\FileManagerConsole.csproj.AssemblyReference.cache
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManagerConsole\FileManagerConsole\obj\Debug\FileManagerConsole.csproj.CoreCompileInputs.cache
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManagerConsole\FileManagerConsole\obj\Debug\FileMana.611133C1.Up2Date
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManagerConsole\FileManagerConsole\obj\Debug\FileManagerConsole.exe
+N:\August Devices\C# class & practise\D 13-06-2025\Task1\FileManagerConsole\FileManagerConsole\obj\Debug\FileManagerConsole.pdb
